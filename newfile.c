@@ -1,4 +1,4 @@
-#include <stdint.h>
+#include <stdio.h>
 
 int main() {
     char different[] = "Printing something different!";
