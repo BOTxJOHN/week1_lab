@@ -1,7 +1,7 @@
 #include <stdint.h>
 
 int main() {
-    char string[] = "Printing something different!";
+    char different[] = "Printing something different!";
 
-    puts(string);
+    puts(different);
 }
